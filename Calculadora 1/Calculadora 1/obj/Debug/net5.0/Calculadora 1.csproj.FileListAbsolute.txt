@@ -1,0 +1,16 @@
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\bin\Debug\net5.0\Calculadora 1.exe
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\bin\Debug\net5.0\Calculadora 1.deps.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\bin\Debug\net5.0\Calculadora 1.runtimeconfig.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\bin\Debug\net5.0\Calculadora 1.runtimeconfig.dev.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\bin\Debug\net5.0\Calculadora 1.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\bin\Debug\net5.0\Calculadora 1.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.csproj.AssemblyReference.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.AssemblyInfoInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.AssemblyInfo.cs
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\refint\Calculadora 1.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\Calculadora 1.genruntimeconfig.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Calculadora 1\Calculadora 1\obj\Debug\net5.0\ref\Calculadora 1.dll

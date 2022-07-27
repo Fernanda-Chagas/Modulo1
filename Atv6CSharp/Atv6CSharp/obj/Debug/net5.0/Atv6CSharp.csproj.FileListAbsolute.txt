@@ -1,0 +1,16 @@
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\bin\Debug\net5.0\Atv6CSharp.exe
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\bin\Debug\net5.0\Atv6CSharp.deps.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\bin\Debug\net5.0\Atv6CSharp.runtimeconfig.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\bin\Debug\net5.0\Atv6CSharp.runtimeconfig.dev.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\bin\Debug\net5.0\Atv6CSharp.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\bin\Debug\net5.0\Atv6CSharp.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.csproj.AssemblyReference.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.AssemblyInfoInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.AssemblyInfo.cs
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\refint\Atv6CSharp.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\Atv6CSharp.genruntimeconfig.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Atv6CSharp\Atv6CSharp\obj\Debug\net5.0\ref\Atv6CSharp.dll

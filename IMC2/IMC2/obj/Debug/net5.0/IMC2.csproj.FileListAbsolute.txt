@@ -1,0 +1,16 @@
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\bin\Debug\net5.0\IMC2.exe
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\bin\Debug\net5.0\IMC2.deps.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\bin\Debug\net5.0\IMC2.runtimeconfig.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\bin\Debug\net5.0\IMC2.runtimeconfig.dev.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\bin\Debug\net5.0\IMC2.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\bin\Debug\net5.0\IMC2.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.csproj.AssemblyReference.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.AssemblyInfoInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.AssemblyInfo.cs
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\refint\IMC2.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\IMC2.genruntimeconfig.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\IMC2\IMC2\obj\Debug\net5.0\ref\IMC2.dll

@@ -1,0 +1,16 @@
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\bin\Debug\net5.0\Coruja.exe
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\bin\Debug\net5.0\Coruja.deps.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\bin\Debug\net5.0\Coruja.runtimeconfig.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\bin\Debug\net5.0\Coruja.runtimeconfig.dev.json
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\bin\Debug\net5.0\Coruja.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\bin\Debug\net5.0\Coruja.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.csproj.AssemblyReference.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.AssemblyInfoInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.AssemblyInfo.cs
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\refint\Coruja.dll
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.pdb
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\Coruja.genruntimeconfig.cache
+C:\Users\Fernanda Chagas\Documents\Generation\C#\Aves\Coruja\obj\Debug\net5.0\ref\Coruja.dll
